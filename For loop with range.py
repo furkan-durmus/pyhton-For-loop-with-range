@@ -1,4 +1,4 @@
-#1. You may iterate over different types
+#1-You may iterate over different types
 """
 for i in 1, 2, 3, 'one', 'two', 'three':
     print(i)
